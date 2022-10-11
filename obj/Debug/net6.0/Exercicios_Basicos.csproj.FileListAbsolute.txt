@@ -1,0 +1,15 @@
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\bin\Debug\net6.0\Exercicios_Basicos.exe
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\bin\Debug\net6.0\Exercicios_Basicos.deps.json
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\bin\Debug\net6.0\Exercicios_Basicos.runtimeconfig.json
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\bin\Debug\net6.0\Exercicios_Basicos.dll
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\bin\Debug\net6.0\Exercicios_Basicos.pdb
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\Exercicios_Basicos.csproj.AssemblyReference.cache
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\Exercicios_Basicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\Exercicios_Basicos.AssemblyInfoInputs.cache
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\Exercicios_Basicos.AssemblyInfo.cs
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\Exercicios_Basicos.csproj.CoreCompileInputs.cache
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\Exercicios_Basicos.dll
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\refint\Exercicios_Basicos.dll
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\Exercicios_Basicos.pdb
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\Exercicios_Basicos.genruntimeconfig.cache
+C:\Users\marina.eskelsen\Desktop\Linguagens\C#\Exercícios básicos\Exercicios_Basicos\obj\Debug\net6.0\ref\Exercicios_Basicos.dll
